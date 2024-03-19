@@ -1,0 +1,5 @@
+1944, Sara Woodford, 15 Merners Lane Harbour Main A0A2P0 NL, 1267465, 5, Y, Y, Y, F, 3649.8
+, 1945, John Smith, 123 Funnt Lane St Johns A6A2P5 NL, 7364857, 2, Y, N, N, D, 1564.2
+, 1946, Jane Doe, 22 Kenmount Road St Johns A0A1B7 NL, 7709988, 7, Y, N, Y, M, 
+1947, Sally Smith, 77 Nowhere Ln Yellowknife A6A2Y3 NT, 3309876, 2, N, N, Y, F, 1564.2
+, 
