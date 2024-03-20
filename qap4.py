@@ -383,7 +383,7 @@ while True:
 
 # save data to text file and 
 
-    print("your claim is being processed and save. please wait...")
+    print("your claim is being processed and saved. please wait...")
 
     for _ in range(3):
         print("")
