@@ -404,7 +404,7 @@ while True:
     f.write("{}, ".format(opt_glass_cov)) 
     f.write("{}, ".format(opt_loan_car))
     f.write("{}, ".format(pay_opt))
-    f.write("{}\n, ".format(str(ins_prem)))
+    f.write("{}\n, ".format(str(total_ins_prem)))
 
 
 # increase policy number by 1 each time a new policy is entered 
